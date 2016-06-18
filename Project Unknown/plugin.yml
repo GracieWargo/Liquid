@@ -1,0 +1,6 @@
+name: LiquidCaft
+main: Project.Utils
+version: 1.0
+author: [dsate1]
+description: Another custom plugin for liquid craft.
+softdepend: [Aero]
